@@ -18,6 +18,10 @@
     <a href="https://www.youtube.com/channel/UCdNHFLRLDsFQw7ZOXz6gk9w" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
 </div>
 
+### Github Stats 💻📊
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thorhexsec&bg_color=000000&color=39FF14&line=39FF14&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### About me 
 
@@ -74,7 +78,5 @@
 
 ### Other Knowledge:
 
-### Github Stats 💻📊
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thorhexsec&bg_color=000000&color=39FF14&line=39FF14&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
