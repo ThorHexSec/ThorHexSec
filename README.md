@@ -1,6 +1,5 @@
-## Hey, I'm Thor Rachaus 🤘
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=WARNNING!!!,+DevSecOps;Where+Code+Meets+Security;Hi+my+name+is=Thor+Rachaus;I+am+from+Santa+Catarina,+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## ⚠️ Alert ("Warning your system is corrupted!")
 
 ### About me 
 
