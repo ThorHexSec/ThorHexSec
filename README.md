@@ -9,59 +9,8 @@
 
 ### My social networks 🌐
 
-<div>
-<a href="https://bitbucket.org/hexsec-thor/workspace/overview/" target="_blank">
-  <img src="https://img.shields.io/badge/Bitbucket-%230052CC?style=flat&logo=bitbucket&logoColor=white" target="_blank">
-</a>
-<a href="https://discord.com/users/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" target="_blank">
-</a>
-<a href="https://github.com/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" target="_blank">
-</a>
-<a href="https://gitlab.com/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" target="_blank">
-</a>
-<a href="mailto:thorhexsec@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="https://instagram.com/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://kick.com/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="https://medium.com/@ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" target="_blank">
-</a>
-<a href="mailto:thorhexsec@protonmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" target="_blank">
-</a>
-<a href="https://slack.com/app_redirect?channel=thorhexsec" target="_blank">
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" target="_blank">
-</a>
-<a href="https://stackoverflow.com/users/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" target="_blank">
-</a>
-<a href="https://t.me/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" target="_blank">
-</a>
-<a href="https://www.twitch.tv/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" target="_blank">
-</a>
-<a href="https://www.youtube.com/c/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank">
-</a>
-<a href="https://steamcommunity.com/id/ThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" target="_blank">
-</a>
-<a href="https://xbox.com/en-US/profile/ThorKhaotic" target="_blank">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white" target="_blank">
-</a>  
-</div>
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/hexsec-thor/workspace/overview/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/ThorHexSec) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ThorHexSec) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=fff)](https://gitlab.com/ThorHexSec) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thorhexsec@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ThorHexSec) [![Kick](https://img.shields.io/badge/Kick-53FC19?style=flat-square&logo=kick&logoColor=000)](https://kick.com/ThorHexSec) [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ThorHexSec) [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ThorHexSec) [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=fff)](mailto:thorhexsec@protonmail.com) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=fff)](https://slack.com/app_redirect?channel=thorhexsec) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ThorHexSec) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ThorHexSec) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/ThorHexSec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/ThorHexSec) [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ThorHexSec) [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://xbox.com/en-US/profile/ThorKhaotic)
+
 
 
 ### About me 
