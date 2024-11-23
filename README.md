@@ -10,7 +10,7 @@
 ### My social networks 🌐
 
 <div>
-<a href="https://bitbucket.org/ThorHexSec" target="_blank">
+<a href="https://bitbucket.org/hexsec-thor/workspace/overview/" target="_blank">
   <img src="https://img.shields.io/badge/Bitbucket-%230052CC?style=flat&logo=bitbucket&logoColor=white" target="_blank">
 </a>
 <a href="https://discord.com/users/ThorHexSec" target="_blank">
