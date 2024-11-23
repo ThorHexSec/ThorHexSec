@@ -43,6 +43,19 @@
 <a href="https://slack.com/app_redirect?channel=thorhexsec" target="_blank">
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" target="_blank">
 </a>
+<a href="https://stackoverflow.com/users/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" target="_blank">
+</a>
+<a href="https://t.me/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" target="_blank">
+</a>
+<a href="https://www.twitch.tv/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" target="_blank">
+</a>
+<a href="https://www.youtube.com/c/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank">
+</a>
+
   
 </div>
 
