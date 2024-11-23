@@ -10,12 +10,9 @@
 ### My social networks 🌐
 
 <div>
-    <a href="https://instagram.com/thorhexsec" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href="https://www.twitch.tv/hexsec" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/channel/UCdNHFLRLDsFQw7ZOXz6gk9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://linkedin.com/in/thorhexsec" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:thorhexsec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/channel/UCdNHFLRLDsFQw7ZOXz6gk9w" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
+<a href="https://bitbucket.org/UsernameThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/-Bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
+</a>
 </div>
 
 ### About me 
