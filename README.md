@@ -11,7 +11,7 @@
 
 <div>
 <a href="https://bitbucket.org/UsernameThorHexSec" target="_blank">
-  <img src="https://img.shields.io/badge/-Bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Bitbucket-%230052CC?style=flat&logo=bitbucket&logoColor=white" target="_blank">
 </a>
 <a href="https://discord.com/users/ThorHexSec" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" target="_blank">
