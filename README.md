@@ -4,7 +4,7 @@
 ### About me 
 
 - 🌎 Location: Santa Catarina, Brazil
-- ♾️ DevSecOps Engineer with 16 years of experience
+- ♾️ DevSecOps Engineer
 - ☠️ Passionate about Cybersecurity: Focused on securing infrastructures and applications, with expertise in offensive and defensive security practices
 - 🛠️ DevSecOps & Automation Enthusiast: Skilled in CI/CD, Infrastructure as Code (IaC), and automating security tests in pipelines
 - ☁️ Cloud & On-Prem Infrastructure: Experienced with AWS, Azure, Vcenter, and hybrid cloud/on-prem setups
