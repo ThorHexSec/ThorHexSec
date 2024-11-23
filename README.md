@@ -13,6 +13,37 @@
 <a href="https://bitbucket.org/UsernameThorHexSec" target="_blank">
   <img src="https://img.shields.io/badge/-Bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
 </a>
+<a href="https://discord.com/users/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" target="_blank">
+</a>
+<a href="https://github.com/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" target="_blank">
+</a>
+<a href="https://gitlab.com/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" target="_blank">
+</a>
+<a href="mailto:thorhexsec@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://instagram.com/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank">
+</a>
+<a href="https://kick.com/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://medium.com/@ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" target="_blank">
+</a>
+<a href="mailto:thorhexsec@protonmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" target="_blank">
+</a>
+<a href="https://slack.com/app_redirect?channel=thorhexsec" target="_blank">
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" target="_blank">
+</a>
+  
 </div>
 
 ### About me 
