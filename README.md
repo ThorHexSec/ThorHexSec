@@ -3,14 +3,21 @@
 ## 👾 Alert ("Warning your system is corrupted!") 
 ### About me 
 
-- 🇧🇷 Lives in Santa Catarina, Brazil <br> 
-- ☠️ Passionate about cybersecurity and offensive hacking techniques
-- 🕹️ Game lover, mainly Action Rpg, Horror and Soul's Like
-- 🎶 Hardcore fan of Heavy Metal and EBSM Cyberpunk music style
-- ✒️ Oldschool and dark style tattoo lover
-- 🗣️ Languages: Português (Native), English (Intermediate), Español (Basic)
-- 📚 Constantly looking to improve my knowledge and skills
-- 🔭 I'm currently studying PHP, focusing on security and damage prevention
+- 🌎 Location: Santa Catarina, Brazil
+- ♾️ DevSecOps Engineer with 16 years of experience
+- ☠️ Passionate about Cybersecurity: Focused on securing infrastructures and applications, with expertise in offensive and defensive security practices
+- 🛠️ DevSecOps & Automation Enthusiast: Skilled in CI/CD, Infrastructure as Code (IaC), and automating security tests in pipelines
+- ☁️ Cloud & On-Prem Infrastructure: Experienced with AWS, Azure, Vcenter, and hybrid cloud/on-prem setups
+- 🧑‍💻 Languages & Frameworks: NodeJS, PHP, Golang, Python, Java (Spring Boot)
+= 🔧 DevOps Tools Expertise: GitHub Actions, Jenkins, GitLab, Bitbucket Pipeline, Terraform, Ansible, Chef
+- 🖥️ System & Web Servers: Expertise in Linux, BSD, and Windows systems, web servers (Nginx, Apache, IIS), and load balancing (HAProxy, ELB)
+- 📊 Monitoring & Analytics: Proficient with ELK Stack, Prometheus, Grafana, Datadog, Zabbix, Wazuh
+- 📦 Containerization & Orchestration: Docker, Docker Swarm, Kubernetes
+- 💽 Databases: Skilled in both relational (MySQL, PostgreSQL, Oracle) and NoSQL (MongoDB, Redis, InfluxDB)
+- 🎮 Hobbies: Gaming (Action RPG, Horror, Souls-like), building and experimenting with Homelab setups
+- 🎶 Music: Hardcore fan of Heavy Metal and EBSM Cyberpunk
+- ✒️ Tattoo Enthusiast: Old-school and dark style tattoos
+
 
 
 ### Interests
