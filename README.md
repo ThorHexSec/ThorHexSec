@@ -9,7 +9,7 @@
 - 🛠️ DevSecOps & Automation Enthusiast: Skilled in CI/CD, Infrastructure as Code (IaC), and automating security tests in pipelines
 - ☁️ Cloud & On-Prem Infrastructure: Experienced with AWS, Azure, Vcenter, and hybrid cloud/on-prem setups
 - 🧑‍💻 Languages & Frameworks: NodeJS, PHP, Golang, Python, Java (Spring Boot)
-= 🔧 DevOps Tools Expertise: GitHub Actions, Jenkins, GitLab, Bitbucket Pipeline, Terraform, Ansible, Chef
+- 🔧 DevOps Tools Expertise: GitHub Actions, Jenkins, GitLab, Bitbucket Pipeline, Terraform, Ansible, Chef
 - 🖥️ System & Web Servers: Expertise in Linux, BSD, and Windows systems, web servers (Nginx, Apache, IIS), and load balancing (HAProxy, ELB)
 - 📊 Monitoring & Analytics: Proficient with ELK Stack, Prometheus, Grafana, Datadog, Zabbix, Wazuh
 - 📦 Containerization & Orchestration: Docker, Docker Swarm, Kubernetes
