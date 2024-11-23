@@ -89,8 +89,13 @@
 
 ### Analytics 
 
-[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)](#) [![Sonarqube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)](#)
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white" target="_blank">
+</a>
 
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=flat&logo=sonarqube&logoColor=white" target="_blank">
+</a>
 
 ### Artificial Intelligence
 
