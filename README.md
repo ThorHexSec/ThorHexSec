@@ -50,9 +50,17 @@
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
-### CI
+### CI/CD
 
 [![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#) [![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
+
+### Cloud Systems
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) [![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) [![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#) [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+
+### Code Coverage
+
+[![Codacy](https://img.shields.io/badge/Codacy-222F29?logo=codacy&logoColor=fff)](#) [![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#) [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#)
 
 ### IaC Skills
 
