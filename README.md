@@ -3,7 +3,7 @@
 ## 👾 Alert ("Warning your system is corrupted!") 
 ### About me 
 
-- 🇧🇷 Lives in Florianópolis/SC, Brazil <br> 
+- 🇧🇷 Lives in Santa Catarina, Brazil <br> 
 - ☠️ Passionate about cybersecurity and offensive hacking techniques
 - 🕹️ Game lover, mainly Action Rpg, Horror and Soul's Like
 - 🎶 Hardcore fan of Heavy Metal and EBSM Cyberpunk music style
@@ -28,10 +28,10 @@
 ### My social networks 🌎
 
 <div>
-    <a href="https://instagram.com/thorkhaotic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href="https://linkedin.com/in/thorrachaus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:thordevsecops@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  	<a href="https://www.twitch.tv/linuxintruder" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/thorhexsec" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href="https://linkedin.com/in/thorhexsec" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:thorhexsec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  	<a href="https://www.twitch.tv/hexsec" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCdNHFLRLDsFQw7ZOXz6gk9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/thordevsecops">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thordevsecops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thordevsecops&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thorhexsec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorhexsec&layout=compact&langs_count=7&theme=dracula"/>
       
 </div>
