@@ -29,8 +29,7 @@
 
 ## 💻 Technologies and Skill Tools
 
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Code-Javascript-blue?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white) ![](https://img.shields.io/badge/Code-Go_Lang-blue?logo=go&logoColor=white) ![](https://img.shields.io/badge/OS-Windows-green?logo=windows&logoColor=blue) ![](https://img.shields.io/badge/OS-Linux-green?logo=linux&logoColor=blue) ![](https://img.shields.io/badge/Tools-Docker-purple?logo=docker&logoColor=orange) ![](https://img.shields.io/badge/Cloud-AWS-lavender?logo=amazon-aws&logoColor=mediumspringgreen) ![](https://img.shields.io/badge/Tools-Jupyter_Notebook-lightcyan?logo=anaconda&logoColor=cadetblue) ![](https://img.shields.io/badge/Database-MySQL-darkslategray?logo=mysql&logoColor=bisque) ![](https://img.shields.io/badge/Database-PostgreSQL-darkslategray?logo=PostgreSQL&logoColor=bisque) 
-
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white) ![](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### My social networks 🌎
 
