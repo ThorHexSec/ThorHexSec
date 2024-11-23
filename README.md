@@ -7,18 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorhexsec&layout=compact&hide_border=true&title_color=39FF14&text_color=39FF14&bg_color=0d1117" />
 </div>
 
-<style>
-  .badge-container a {
-    margin: 0;
-    padding: 0;
-  }
-
-  .badge-container img {
-    margin: 0;
-    padding: 0;
-  }
-</style>
-
 ### My social networks 🌐
 
 <div class="badge-container">
