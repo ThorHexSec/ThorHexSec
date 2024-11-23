@@ -21,11 +21,11 @@
 
 
 ### Interests
-- Homelab (KVM, LibVirt, Cockpit, Pihole and Heimdall Dashboard)
-- Cloud Computing (AWS and Azure)
-- Hardware (Casemod and Extreme Computer Customization)
-- Programming languages focused on security and penetration testing
-- Pentest Tools (Nessus, Metasploit, Burpsuite, Hydra and Kali Linux)
+- 🏠 Homelab Enthusiast: Passionate about building and optimizing homelab setups using KVM, LibVirt, Cockpit, PiHole, and Heimdall Dashboard for self-hosted services and monitoring.
+- ☁️ Cloud Computing: Deep interest in AWS and Azure, exploring cloud infrastructure, security, and automation.
+- 💻 Hardware Customization: Focused on case mods, extreme computer builds, and custom hardware setups for performance and aesthetics.
+- 🧑‍💻 Security-focused Programming: Specializing in programming languages for security, with an emphasis on building secure applications and penetration testing tools.
+- ⚔️ Penetration Testing Tools: Hands-on experience with industry-standard tools like Nessus, Metasploit, Burp Suite, Hydra, and Kali Linux for vulnerability assessments and penetration testing.
 
 ## 💻 Technologies and Skill Tools
 
