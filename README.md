@@ -55,7 +55,12 @@
 <a href="https://www.youtube.com/c/ThorHexSec" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank">
 </a>
-
+<a href="https://steamcommunity.com/id/ThorHexSec" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" target="_blank">
+</a>
+<a href="https://xbox.com/en-US/profile/ThorKhaotic" target="_blank">
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white" target="_blank">
+</a>
   
 </div>
 
