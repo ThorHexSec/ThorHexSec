@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorhexsec&layout=compact&hide_border=true&title_color=39FF14&text_color=39FF14&bg_color=0d1117" />
 </div>
 
-### My social networks 🌐
+## My social networks 🌐
 
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/hexsec-thor/workspace/overview/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=fff)](https://gitlab.com/ThorHexSec) [![Kick](https://img.shields.io/badge/Kick-53FC19?style=flat-square&logo=kick&logoColor=000)](https://kick.com/ThorHexSec) [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ThorHexSec) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28456366/thorhexsec?tab=profile) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/ThorHexSec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/ThorHexSec) [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ThorHexSec) [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)]([https://xbox.com/en-US/profile/ThorKhaotic](https://www.xbox.com/pt-BR/play/user/ThorKhaotic))
 
@@ -90,7 +90,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff)](#)
 
 
-### Github Stats 💻📊
+## Github Stats 💻📊
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thorhexsec&bg_color=000000&color=39FF14&line=39FF14&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
