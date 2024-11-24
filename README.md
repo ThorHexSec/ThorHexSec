@@ -11,7 +11,7 @@
 
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/hexsec-thor/workspace/overview/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=fff)](https://gitlab.com/ThorHexSec) [![Kick](https://img.shields.io/badge/Kick-53FC19?style=flat-square&logo=kick&logoColor=000)](https://kick.com/ThorHexSec) [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ThorHexSec) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28456366/thorhexsec?tab=profile) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/ThorHexSec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/ThorHexSec) [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ThorHexSec) [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)]([https://xbox.com/en-US/profile/ThorKhaotic](https://www.xbox.com/pt-BR/play/user/ThorKhaotic))
 
-### ♾️ About me 
+## ♾️ About me 
 
 - ☠️ Passionate about Cybersecurity: Focused on securing infrastructures and applications, with expertise in offensive and defensive security practices
 - 🛠️ DevSecOps & Automation Enthusiast: Skilled in CI/CD, Infrastructure as Code (IaC), and automating security tests in pipelines
