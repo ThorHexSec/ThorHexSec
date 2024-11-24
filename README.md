@@ -13,8 +13,6 @@
 
 ### About me 
 
-- 🌎 Location: Santa Catarina, Brazil
-- ♾️ DevSecOps Engineer
 - ☠️ Passionate about Cybersecurity: Focused on securing infrastructures and applications, with expertise in offensive and defensive security practices
 - 🛠️ DevSecOps & Automation Enthusiast: Skilled in CI/CD, Infrastructure as Code (IaC), and automating security tests in pipelines
 - ☁️ Cloud & On-Prem Infrastructure: Experienced with AWS, Azure, Vcenter, and hybrid cloud/on-prem setups
@@ -27,8 +25,6 @@
 - 🎮 Hobbies: Gaming (Action RPG, Horror, Souls-like), building and experimenting with Homelab setups
 - 🎶 Music: Hardcore fan of Heavy Metal and EBSM Cyberpunk
 - ✒️ Tattoo Enthusiast: Old-school and dark style tattoos
-
-
 
 ### Interests
 - 🏠 Homelab Enthusiast: Passionate about building and optimizing homelab setups using KVM, LibVirt, Cockpit, PiHole, and Heimdall Dashboard for self-hosted services and monitoring.
