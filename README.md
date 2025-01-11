@@ -25,4 +25,4 @@ Other ways to contact me can be found at [Social Network](https://allmylinks.com
 [![Thor Rachaus github stats](https://github-readme-stats.vercel.app/api?username=thorhexsec&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorHexSec&layout=compact&langs_count=6&custom_title=Top%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorhexsec&layout=compact&langs_count=6&custom_title=Top%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
