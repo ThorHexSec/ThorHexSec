@@ -34,6 +34,5 @@ Other ways to contact me can be found at [Social Network](https://allmylinks.com
     src="https://github-readme-stats.vercel.app/api?username=ThorHexSec&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ThorHexSec&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-
+[![ThorHexSec GitHub stats](https://github-readme-stats.vercel.app/api?username=ThorHexSec)](https://github.com/anuraghazra/github-readme-stats)
 </p>
