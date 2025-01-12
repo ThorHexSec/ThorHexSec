@@ -25,15 +25,9 @@ Other ways to contact me can be found at [Social Network](https://allmylinks.com
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ThorHexSec&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+[![Giovanni Bassi's github stats](https://github-readme-stats.vercel.app/api?username=giggio&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorHexSec&layout=donut&theme=tokyonight)](https://github.com/ThorHexSec/github-readme-stats)
+[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorHexSec&layout=compact&&theme=tokyonight&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/ThorHexSec/github-readme-stats)
 
-</p>
+[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorHexSec&layout=compact&hide=C%23,Rust,Shell,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/ThorHexSec/github-readme-stats)
+
