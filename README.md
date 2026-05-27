@@ -240,28 +240,15 @@ Throughout my career, I have worked on:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=ThorHexSec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ThorHexSec&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorHexSec&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorHexSec&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-</div>
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ThorHexSec&theme=tokyo-night&hide_border=true"
-/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThorHexSec&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 
 </div>
 
