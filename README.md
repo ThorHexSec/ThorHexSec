@@ -1,19 +1,42 @@
-````md id="q8x4mn"
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:00C2FF&height=220&section=header&text=Thor%20Rachaus&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SRE%20Specialist%20%7C%20DevSecOps%20%26%20Platform%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Engineer%20%7C%20Cybersecurity&descAlignY=58"/>
+````md
+<h1 align="center">Thor Rachaus</h1>
 
-<div align="center">
+<h3 align="center">
+SRE Specialist | DevSecOps & Platform Engineer | Cloud Architect | AI Engineer | Cybersecurity
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=1200&lines=Cloud+Architecture+%26+Platform+Engineering;DevSecOps+%7C+SRE+%7C+CyberSecurity;Kubernetes+%7C+GitOps+%7C+Observability;Multi-Cloud+Infrastructure+Specialist;AI+Engineering+%26+Automation;Reliability+at+Scale+%7C+Security+by+Design)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Cloud+Architecture+%26+Platform+Engineering;Kubernetes+%7C+GitOps+%7C+Observability;DevSecOps+%7C+SRE+%7C+CyberSecurity;AI+Engineering+%26+Infrastructure+Automation;Reliability+at+Scale+%7C+Security+by+Design"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-</div>
+---
 
-<h1 align="center">👨‍💻 About Me</h1>
+# 👨‍💻 About Me
 
-```bash
-Name: Thor Rachaus
-Role: SRE Specialist | DevSecOps & Platform Engineer | Cloud Architect | AI Engineer | Cybersecurity (Offensive & Defensive)
-Location: Montevideo, Uruguay 🇺🇾
-Focus: Reliability • Scalability • Security • Automation • Cloud Native
+```yaml
+name: Thor Rachaus
+
+role:
+  - SRE Specialist
+  - DevSecOps & Platform Engineer
+  - Cloud Architect
+  - AI Engineer
+  - Cybersecurity (Offensive & Defensive)
+
+location: Montevideo, Uruguay 🇺🇾
+
+focus:
+  - Reliability Engineering
+  - Cloud Native Platforms
+  - Kubernetes Ecosystems
+  - Infrastructure Automation
+  - Security by Design
+  - Observability & Scalability
 ````
 
 I am a multidisciplinary engineer specialized in building secure, resilient, and scalable cloud-native platforms across multi-cloud and hybrid environments.
@@ -30,14 +53,14 @@ My expertise combines:
 
 Throughout my career, I have worked on:
 
-* enterprise-scale cloud modernization;
-* Kubernetes and GitOps ecosystems;
-* reliability engineering and observability strategies;
-* security-first CI/CD pipelines;
-* infrastructure automation at scale;
-* platform standardization and developer experience;
-* cloud governance, FinOps, and disaster recovery;
-* offensive and defensive cybersecurity initiatives.
+* enterprise-scale cloud modernization
+* Kubernetes and GitOps ecosystems
+* reliability engineering and observability strategies
+* security-first CI/CD pipelines
+* infrastructure automation at scale
+* platform standardization and developer experience
+* cloud governance, FinOps, and disaster recovery
+* offensive and defensive cybersecurity initiatives
 
 <div align="center">
 
@@ -48,9 +71,9 @@ Throughout my career, I have worked on:
 
 ---
 
-<h1 align="center">⚡ Core Expertise</h1>
+# ⚡ Core Expertise
 
-<table align="center">
+<table>
 <tr>
 <td valign="top" width="50%">
 
@@ -67,6 +90,7 @@ Throughout my career, I have worked on:
 * Infrastructure Modernization
 
 </td>
+
 <td valign="top" width="50%">
 
 ### ⚙️ Platform Engineering & SRE
@@ -98,6 +122,7 @@ Throughout my career, I have worked on:
 * NIST / CIS / ISO 27001
 
 </td>
+
 <td valign="top" width="50%">
 
 ### 🤖 AI Engineering & Automation
@@ -115,7 +140,7 @@ Throughout my career, I have worked on:
 
 ---
 
-<h1 align="center">🛠️ Tech Stack</h1>
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -172,7 +197,7 @@ Throughout my career, I have worked on:
 
 ---
 
-<h1 align="center">🏗️ Professional Highlights</h1>
+# 🏗️ Professional Highlights
 
 ### Reliability Engineering & Observability
 
@@ -219,7 +244,7 @@ Throughout my career, I have worked on:
 
 ---
 
-<h1 align="center">📊 GitHub Stats</h1>
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -233,7 +258,7 @@ Throughout my career, I have worked on:
 
 ---
 
-<h1 align="center">🧠 Current Focus</h1>
+# 🧠 Current Focus
 
 <div align="center">
 
@@ -243,22 +268,22 @@ Platform Engineering • AI Engineering • Cloud Native Security • Kubernetes
 
 ---
 
-<h1 align="center">🌐 Connect With Me</h1>
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/thorrachaus" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-&nbsp;
+
 <a href="https://www.youtube.com/@ThorHexSec" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-0B1220?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
-&nbsp;
+
 <a href="https://www.twitch.tv/thorhexsec" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-0B1220?style=for-the-badge&logo=twitch&logoColor=9146FF"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/ThorHexSec" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
@@ -272,6 +297,4 @@ Platform Engineering • AI Engineering • Cloud Native Security • Kubernetes
 ### ⚡ Reliability at Scale • Security by Design • Automation First ⚡
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0B1220&height=140&section=footer"/>
 ```
